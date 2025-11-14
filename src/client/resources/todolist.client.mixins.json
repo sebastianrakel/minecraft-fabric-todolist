@@ -1,0 +1,10 @@
+{
+	"required": true,
+	"package": "eu.devunit.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
